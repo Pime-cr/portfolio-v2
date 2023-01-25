@@ -1,8 +1,8 @@
 import NavBar from "./NavBar"
 import { useEffect } from "react"
 import { useRouter } from "next/router"
-import NProgress from "nProgress"
-import Classnames from 'classNames'
+import NProgress from "nprogress"
+import Classnames from 'classnames'
 
 const Layout = ({ children ,footer=true , dark , title}) => {
     const router = useRouter();
