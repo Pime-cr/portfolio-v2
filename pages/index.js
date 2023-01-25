@@ -20,7 +20,7 @@ export default function Home() {
                 <h1>Cristian Pimentel</h1>
                 <h3>FullStack Developer</h3>
                 <h5>About me:</h5>
-                <p>Hola! soy Cristian, soy un desarrollador web graduado de el Bootcamp de "Soy Henry" </p>
+                <p>Hola! soy Cristian, soy un desarrollador web graduado de el Bootcamp de {`&quot;`}Soy Henry{`&quot;`} </p>
                 <p>Mi objetivo es obtener experiencia en el mundo de la programacion y perfeccionar mis habilidades</p>
                 <p>Me considero una persona con un buen manejo de la lógica de programación, autodidacta y con una gran predisposición al trabajo en equipo</p>
                 <a href=''>Hire me</a>

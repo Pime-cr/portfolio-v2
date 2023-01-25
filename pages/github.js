@@ -17,6 +17,7 @@ const Github = ({ user, statusCode }) => {
                         <a
                             href={user.blog}
                             target="_blank"
+                            rel="noopener noreferrer"
                             className="btn btn-outline-secondary my-2"
                         >
                             My Blog
@@ -24,6 +25,7 @@ const Github = ({ user, statusCode }) => {
                         <a
                             href={user.html_url}
                             target="_blank"
+                            rel="noopener noreferrer"
                             className="btn btn-outline-secondary"
                         >
                             Go to Github
